@@ -6,7 +6,7 @@ To aid staffing, you are provided with the monthly information for a segment of 
   2. Tenure information (joining date, Last Date)
   3. Historical data regarding the performance of the employee (Quarterly rating, Monthly business acquired, designation, salary)
 
-Private Leaderboard Rank - 1
+Private Leaderboard Rank - 1 </br>
 Public Leaderboard Rank - 3
 
 # Approach

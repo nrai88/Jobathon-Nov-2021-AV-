@@ -7,6 +7,7 @@ To aid staffing, you are provided with the monthly information for a segment of 
   3. Historical data regarding the performance of the employee (Quarterly rating, Monthly business acquired, designation, salary)
 
 Private Leaderboard Rank - 1
+Public Leaderboard Rank - 3
 
 # Approach
 Formulating the problem into a Machine Learning and transforming the data was the most challenging part. A snapshot of the data is provided under
